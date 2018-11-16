@@ -1,8 +1,8 @@
 title:             Clean Blog
-email:             yunsionn@example.com
+email:             yunsionn@gmail.com
 description:       A Blog Theme by Start Bootstrap
 author:            Start Bootstrap
-baseurl:           "/startbootstrap-clean-blog-jekyll"
+baseurl:           "/"
 url:               "http://yunsion.github.io"
 
 # Social Profiles
