@@ -2,7 +2,7 @@ title:             Clean Blog
 email:             yunsionn@example.com
 description:       A Blog Theme by Start Bootstrap
 author:            Start Bootstrap
-baseurl:           "/yunsion"
+baseurl:           "/files"
 url:               "http://yunsion.github.io"
 
 # Social Profiles
